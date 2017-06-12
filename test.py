@@ -1,2 +1,2 @@
 #! python
-print 'testing123';
+print ("testing123");
